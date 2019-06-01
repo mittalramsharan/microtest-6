@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "microtest6",
+    "packageName": "io.github.jhipster.application6",
+    "packageFolder": "io/github/jhipster/application6",
+    "serverPort": 8086,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "ODcwNzE2YTc4MjM2ODI5ZGM4NTVlNWYzZTRmOGJkMjIyYTZjYTgzMGNmNDc0MDI3MTI0ODlhZWIxYTIwOWUyMjE0M2Q3NTljNzNhODBmMzQ4ZDVlYWI3MzM1NDE2MjM3ZWMyMmY4YzE0MDM2ZWJmMDYyMzAwNDU0NTZkNTAwODk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "mittalramsharan",
+  "repository-name": "microtest-6"
+}
